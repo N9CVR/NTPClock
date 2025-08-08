@@ -33,7 +33,9 @@ You should have received a copy of the GNU General Public License along with
 this program. If not, see <https://www.gnu.org/licenses/>. 
 
 Roadmap:
+
 v1.0 - Initial release (8/9/2025)
+
 v2.0 - improve calls to NTP server. I'd like to detect how long the clock has
   been accurate, and only call the NTP server when we're starting to lose
   accuracy.
